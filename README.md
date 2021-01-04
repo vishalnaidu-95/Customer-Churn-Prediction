@@ -1,2 +1,2 @@
-# Data-Science
-Customer-Churn
+# Customer-Churn-Prediction
+
